@@ -65,6 +65,10 @@ pre {
   font-family: monospace, monospace; /* 1 */
   font-size: 1em; /* 2 */
 }
+p{
+  margin: 0;
+  padding: 0;
+}
 
 /* Text-level semantics
    ========================================================================== */
@@ -347,3 +351,5 @@ template {
 [hidden] {
   display: none;
 }
+
+
