@@ -67,7 +67,7 @@ ___________________________
 Занимайтесь по расписанию, короткими интенсивными интервалами.
 Уделяйте внимание количеству и скорости.
 
-
+ <a href="https://facebook.com" class="footer__column-link"><img src="images/facebook_white.svg" class="footer__social-icon"/> Facebook </a>
 ___________________________
 блок footer:
 О Практикуме
