@@ -24,12 +24,12 @@
 .logo {
     width: 183px;
     height: 32px;
-    position: absolute;
 }
 .logo_place_header {
     top: 30px;
     left: 64px;
     z-index: 1;
+    position: absolute;
 }
 .title {
     width: 730px;
@@ -282,7 +282,7 @@
 .footer__column_content_copyright {
    flex-basis: 711px;
    display: flex;
-   flex-direction: row;
+   flex-direction: column;
    justify-content: space-between;
 
 }
@@ -298,7 +298,6 @@
     line-height: 25px;
     font-size: 18px;
     margin: 18px 0 18px;
-    align-self: flex-end;
     }
 
 .footer__column-heading {
