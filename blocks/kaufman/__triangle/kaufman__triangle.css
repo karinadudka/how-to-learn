@@ -1,12 +1,4 @@
-@keyframes rotation {
-    from {
-      transform: rotate(0);
-    }
-    to {
-      transform: rotate(360deg);
-    }
 
-}
 .kaufman__triangle {
     position: absolute;
     right: -210px;
