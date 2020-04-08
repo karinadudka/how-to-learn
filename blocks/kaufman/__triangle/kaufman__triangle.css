@@ -7,4 +7,5 @@
     height: 877px;
     transform: rotate(360deg);
     animation: rotation 20s linear infinite;
+    z-index: 0;
 }
